@@ -12,5 +12,5 @@ when it is stated “in the user level” we assumed that we only have the objec
 .
 .
 
-Under Reviewed by: Tamer Abd-Elaziz Yassen
-Teaching Assistant, Computer Science Dept, Helwan University.
+Under Reviewed by: Tamer Yassen
+Teaching Assistant, Computer Science Dept.
